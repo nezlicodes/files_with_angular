@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build -sm -ec -bh /repo name/ & ngh --silent=false"
+    "deploy": "ng build -sm -ec -bh /files_with_angular/ & ngh --silent=false"
   },
   "private": true,
   "dependencies": {
